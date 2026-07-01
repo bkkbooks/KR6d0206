@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0206/x/v1/juan/0
+seq: 0
+front:
+  text: 隨自意三昧目次行威儀品第一住威儀品第二坐威儀品第三眠威儀品第四食威儀中具足一切諸上味品第五語威儀品第六隨自意三昧目次終
+  hash: sha256:ad54ceb00e0b88f874d04a9c5e6e06ff7a3eb629635f7ce83e7287c378b28f01
+  markers:
+  - {type: 其他, offset: 0, content: 隨自意三昧目次, id: KR6d0206_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 隨自意三昧
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0903.xml
+    old_id: X55n0903
+hash: sha256:fbee8d845dea8bdb8d8a8afdc6cb6a8840f11d622561b3ae01c9d3d7afe38753

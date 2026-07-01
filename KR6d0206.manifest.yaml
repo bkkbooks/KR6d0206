@@ -1,0 +1,112 @@
+canonical_identifier: bkk:krp/KR6d0206/v1
+canonical_location: https://kanripo.org/bkk/KR6d0206/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 隨自意三昧
+  identifiers:
+    alt_id:
+    - X55n0903
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0903.xml
+    old_id: X55n0903
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0206_000.yaml, hash: 'sha256:fbee8d845dea8bdb8d8a8afdc6cb6a8840f11d622561b3ae01c9d3d7afe38753'}
+  - {seq: 1, filename: KR6d0206_001.yaml, hash: 'sha256:b7285f26beb842179a3c48d2ba08a8dddf52fe24fde0397087cf4659ec2000a0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0206_001.markers.yaml, hash: 'sha256:c617f8f71c3745fc1caac28801d0477bd7cec839138b4bef1d9cfd7fecffaf56'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0206_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 隨自意三昧目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0206_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13166
+  label: 隨自意三昧行威儀品第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0206_X_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 行威儀品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0206_X_001-mulu-2
+    span:
+    - body
+    - 3396
+    - 3396
+  label: 住威儀品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0206_X_001-mulu-3
+    span:
+    - body
+    - 4576
+    - 4576
+  label: 坐威儀品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0206_X_001-mulu-4
+    span:
+    - body
+    - 10232
+    - 10232
+  label: 眠臥威儀品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0206_X_001-mulu-5
+    span:
+    - body
+    - 10979
+    - 10979
+  label: 食威儀中具足一切諸上味品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0206_X_001-mulu-6
+    span:
+    - body
+    - 12092
+    - 12092
+  label: 語威儀品第六
+  type: mulu
+  level: 1
+hash: sha256:d8a28f71d2d2cf73e64b898916b2df95df0670e5af2abd93e469bf9c8e1e4690
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
