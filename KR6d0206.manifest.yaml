@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0206/v1
 canonical_location: https://kanripo.org/bkk/KR6d0206/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 隨自意三昧
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0206_000.yaml, hash: 'sha256:fbee8d845dea8bdb8d8a8afdc6cb6a8840f11d622561b3ae01c9d3d7afe38753'}
-  - {seq: 1, filename: KR6d0206_001.yaml, hash: 'sha256:0bd16e5613eb3996ea4a3540d6d8e563994c094a06f93970b2accf3642f115b6'}
+  - {seq: 1, filename: KR6d0206_001.yaml, hash: 'sha256:a993a6a3847cdd651d8651a5c2f9ac9624bf028ef17d1133a5067152d05618a5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0206_000.markers.yaml, hash: 'sha256:8502811bfe6952cec840576592c0647017370de67059b0b59a734f88cdbfda11'}
-  - {seq: 1, role: markers, filename: assets/KR6d0206_001.markers.yaml, hash: 'sha256:31db72388165c1511f75b97c3b0f9e47160e083364d2a0f651faabc6dd217953'}
+  - {seq: 1, role: markers, filename: assets/KR6d0206_001.markers.yaml, hash: 'sha256:e88cbef8e2f25edf3188350dd174192e04511e7d6ccd744c6d09b715b4aa4094'}
 table_of_contents:
 - ref:
     seq: 0
@@ -107,4 +107,7 @@ table_of_contents:
   label: 語威儀品第六
   type: mulu
   level: 1
-hash: sha256:cf58c43a1e9f6f29ed19aac894dbbbb7796a976e181774b78d51f9797e097181
+hash: sha256:557606ce22cb52dfa89c0e828f84af0fd19ca3a02edfc43790dc90dce9621fbd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
