@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0206_000-X.yaml, hash: 'sha256:fbee8d845dea8bdb8d8a8afdc6cb6a8840f11d622561b3ae01c9d3d7afe38753'}
+  - {seq: 0, filename: KR6d0206_000-X.yaml, hash: 'sha256:aacfb2b0d998cd11052d143b90d2ccfdd9f40ceaeeb250bbad8473e72d0e7aee'}
   - {seq: 1, filename: KR6d0206_001-X.yaml, hash: 'sha256:0bd16e5613eb3996ea4a3540d6d8e563994c094a06f93970b2accf3642f115b6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0206_000-X.markers.yaml, hash: 'sha256:371c833d5673c39fa2015c66cca7f97411c0b6cf0cff4f7e524af25db6a0e58f'}
+  - {seq: 0, role: markers, filename: assets/KR6d0206_000-X.markers.yaml, hash: 'sha256:8999ab19c6661774ccbe76a82db819ea88e9a6e7376a784c290c8916ce978ad3'}
   - {seq: 1, role: markers, filename: assets/KR6d0206_001-X.markers.yaml, hash: 'sha256:e8276b55dc6be9e0f60a633dc892cc9010e2698b89f37ce5d33861b8cf4cf696'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0206_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 隨自意三昧目次
@@ -105,4 +105,4 @@ table_of_contents:
   label: 語威儀品第六
   type: mulu
   level: 1
-hash: sha256:ba6bc6f6dd184bed493e9fe5e94f6681b55a6ad1bd4cb6d8e3c3f86a6d287797
+hash: sha256:7fd551b8187ffb467182626cda4c602d49decaac98303bccd96ab009269457de
